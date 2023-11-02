@@ -1,0 +1,164 @@
+Var,Type
+ID,Id variable
+Fold,Fold variable (IS/OS)
+Target,Dependent variable (0/1)
+Var4,Continuous
+Var5,Categorical Ordinal
+Var6,Dummy
+Var7,Continuous
+Var8,Dummy
+Var9,Continuous
+Var10,Continuous
+Var11,Dummy
+Var12,Dummy
+Var13,Continuous
+Var14,Continuous
+Var15,Dummy
+Var16,Dummy
+Var17,Dummy
+Var18,Dummy
+Var19,Categorical Nominal
+Var20,Continuous
+Var21,Continuous
+Var22,Continuous
+Var23,Categorical Nominal
+Var24,Continuous
+Var25,Continuous
+Var26,Categorical Nominal
+Var27,Categorical Nominal
+Var28,Continuous
+Var29,Categorical Ordinal
+Var30,Categorical Ordinal
+Var31,Dummy
+Var32,Categorical Ordinal
+Var33,Dummy
+Var34,Categorical Ordinal
+Var35,Continuous
+Var36,Dummy
+Var37,Dummy
+Var38,Dummy
+Var39,Dummy
+Var40,Dummy
+Var41,Dummy
+Var42,Dummy
+Var43,Dummy
+Var44,Continuous
+Var45,Categorical Ordinal
+Var46,Categorical Ordinal
+Var47,Categorical Ordinal
+Var48,Categorical Ordinal
+Var49,Categorical Ordinal
+Var50,Categorical Ordinal
+Var51,Categorical Ordinal
+Var52,Dummy
+Var53,Dummy
+Var54,Continuous
+Var55,Continuous
+Var56,Continuous
+Var57,Continuous
+Var58,Dummy
+Var59,Dummy
+Var60,Categorical Ordinal
+Var61,Dummy
+Var62,Dummy
+Var63,Dummy
+Var64,Dummy
+Var65,Dummy
+Var66,Dummy
+Var67,Dummy
+Var68,Categorical Nominal
+Var69,Dummy
+Var70,Categorical Ordinal
+Var71,Categorical Ordinal
+Var72,Continuous
+Var73,Continuous
+Var74,Categorical Ordinal
+Var75,Categorical Ordinal
+Var76,Categorical Ordinal
+Var77,Categorical Ordinal
+Var78,Categorical Ordinal
+Var79,Categorical Ordinal
+Var80,Categorical Ordinal
+Var81,Continuous
+Var82,Continuous
+Var83,Continuous
+Var84,Continuous
+Var85,Continuous
+Var86,Categorical Ordinal
+Var87,Categorical Ordinal
+Var88,Categorical Ordinal
+Var89,Categorical Ordinal
+Var90,Categorical Ordinal
+Var91,Categorical Ordinal
+Var92,Dummy
+Var93,Categorical Nominal
+Var94,Dummy
+Var95,Continuous
+Var96,Dummy
+Var97,Dummy
+Var98,Dummy
+Var99,Dummy
+Var100,Dummy
+Var101,Dummy
+Var102,Dummy
+Var103,Dummy
+Var104,Dummy
+Var105,Categorical Ordinal
+Var106,Categorical Ordinal
+Var107,Categorical Ordinal
+Var108,Categorical Ordinal
+Var109,Categorical Ordinal
+Var110,Categorical Ordinal
+Var111,Categorical Ordinal
+Var112,Categorical Ordinal
+Var113,Categorical Ordinal
+Var114,Continuous
+Var115,Dummy
+Var116,Categorical Ordinal
+Var117,Categorical Ordinal
+Var118,Categorical Ordinal
+Var119,Categorical Ordinal
+Var120,Categorical Ordinal
+Var121,Categorical Ordinal
+Var122,Categorical Ordinal
+Var123,Categorical Ordinal
+Var124,Categorical Ordinal
+Var125,Categorical Ordinal
+Var126,Dummy
+Var127,Dummy
+Var128,Dummy
+Var129,Continuous
+Var130,Continuous
+Var131,Continuous
+Var132,Dummy
+Var133,Categorical Nominal
+Var134,Categorical Nominal
+Var135,Categorical Ordinal
+Var136,Continuous
+Var137,Dummy
+Var138,Dummy
+Var139,Dummy
+Var140,Dummy
+Var141,Dummy
+Var142,Dummy
+Var143,Categorical Ordinal
+Var144,Dummy
+Var145,Dummy
+Var146,Dummy
+Var147,Dummy
+Var148,Dummy
+Var149,Dummy
+Var150,Dummy
+Var151,Dummy
+Var152,Dummy
+Var153,Dummy
+Var154,Dummy
+Var155,Dummy
+Var156,Dummy
+Var157,Dummy
+Var158,Dummy
+Var159,Dummy
+Var160,Dummy
+Var161,Continuous
+Var162,Categorical Nominal
+Var163,Continuous
